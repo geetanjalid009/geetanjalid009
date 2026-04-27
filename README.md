@@ -70,8 +70,8 @@ I believe in learning by building and solving real problems.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/geetanjali-pal-8a003262/
+- 📧 Email: geetanjalid009@gmail.com
 
 ---
 

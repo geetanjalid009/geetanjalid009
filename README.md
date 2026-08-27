@@ -6,8 +6,7 @@
 # Hi, I'm Geetanjali 👋
 
 💻 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD  
-📍 Pune, India  
-🔁 Transitioning from Finance to DevOps  
+📍 Pune, India   
 
 ---
 

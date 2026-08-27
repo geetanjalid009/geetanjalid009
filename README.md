@@ -13,11 +13,13 @@
 
 ## 🚀 About Me
 
-I have 6+ years of experience in Investment Research and Financial Analysis.
+## About Me
 
-After a career break due to health reasons, I transitioned into DevOps by building real-world projects and gaining hands-on experience in cloud and automation.
+I’m a DevOps Engineer with 3 years of experience working with cloud infrastructure, automation, CI/CD, and containerized applications.
 
-I believe in learning by building and solving real problems.
+My hands-on experience includes AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, and monitoring tools such as Prometheus and Grafana. I’ve worked on deploying applications, automating infrastructure and releases, troubleshooting environment issues, and improving the reliability of deployments.
+
+I enjoy learning by building things, which is why I use GitHub to work on practical DevOps projects and experiment with different cloud and automation tools.
 
 ---
 
